@@ -188,6 +188,7 @@ namespace ADNCWebpackBoilerplate
             app.UseAuthentication();
             app.UseAuthorization();
 
+            // Uncomment to add auto migration on startup.
             //app.UseDbMigration().Wait();
 
             app.UseEndpoints(endpoints => endpoints.MapRazorPages());
