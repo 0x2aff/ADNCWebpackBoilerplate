@@ -23,6 +23,8 @@
  */
 
 using System;
+using ADNCWebpackBoilerplate.Contexts;
+using ADNCWebpackBoilerplate.Entities.Identity;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.ResponseCompression;
