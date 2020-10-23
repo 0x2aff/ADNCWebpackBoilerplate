@@ -1,0 +1,7 @@
+{
+  "DatabaseHost": "localhost",
+  "DatabasePort": "3366",
+  "DatabaseUsername": "user",
+  "DatabasePassword": "changeme_user",
+  "DatabaseName": "adnc"
+}

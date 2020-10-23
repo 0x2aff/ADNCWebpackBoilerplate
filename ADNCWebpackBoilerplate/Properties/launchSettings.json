@@ -1,0 +1,27 @@
+{
+  "profiles": {
+    "ADNCWebpackBoilerplate": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DatabaseHost": "localhost",
+        "DatabasePort": "3366",
+        "DatabaseUsername": "user",
+        "DatabasePassword": "changeme_user",
+        "DatabaseName": "adnc"
+      }
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchBrowser": false,
+      "publishAllPorts": true,
+      "useSSL": true,
+      "environmentVariables": {
+        "DatabaseHost": "localhost",
+        "DatabasePort": "3366",
+        "DatabaseUsername": "user",
+        "DatabasePassword": "changeme_user",
+        "DatabaseName": "adnc"
+      }
+    }
+  }
+}
