@@ -40,7 +40,7 @@ Runs the webpack bundler in watch and development mode. This will bundle the sas
 ### Visual Studio Task Runner
 
 I added a "-vs-binding" for the Visual Studio Task Runner into the "package.json" that will automatically start the watch script command as soon as the project gets loaded into Visual Studio.
-You can download the Visual Studio Task Runner [here](<(https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TaskRunnerExplorer)>).
+You can download the Visual Studio Task Runner [here](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TaskRunnerExplorer).
 
 ## Infos
 
